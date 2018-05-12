@@ -1,0 +1,29 @@
+_repo: Connor-Magan-s-Luck-and-Other-Stories_16576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: M. T. W.
+    gutenberg_agent_id: '6798'
+    url: http://www.gutenberg.org/2009/agents/6798
+description: ''
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Connor Magan's Luck -- Why Mammy Delphy's Baby Was Named Grief --
+  Sammy Sealskin's Enemy -- Nannette's Live Baby -- Brothers For Sale -- A Story of
+  a Clock -- Naughty Zay -- The Legend of the Salt Sea -- The Man with the Straw Hat
+  -- Ruffles and Puffs -- Sugar River -- A Pioneer "Wide Awake" -- Surprised -- April
+  Fools and Other Fools.
+title: Connor Magan's Luck and Other Stories
+url: http://www.gutenberg.org/ebooks/16576
